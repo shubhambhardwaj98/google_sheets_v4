@@ -9,7 +9,7 @@ import pickle
 import pandas as pd
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-SPREADSHEET_ID = "1AO8zKIZ4SXV0zA6r_StgP0wrcueRrFbLIYHymTJwx3I"
+SPREADSHEET_ID = ""
 
 def sheets_object_creation():
     creds = None
